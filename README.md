@@ -10,11 +10,11 @@
 
 - **Add Notes**
 
-- **Add Notes**
+- **Show Notes**
 
-- **Add Notes**
+- **Edit Notes**
 
-- **Add Notes**
+- **Delete Notes**
  
 ## TECHNOLOGIES💻
 
