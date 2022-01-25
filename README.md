@@ -5,7 +5,7 @@
  #### A simple web application for note taking using MySql database and JAVA as back-end , applying ORM principles of Hibernate Framework.
  
  ## Functionality🎭
-##### Following functionalities are provided within the application-\
+##### Following functionalities are provided within the application:-
 
 
 - **Add Notes**
